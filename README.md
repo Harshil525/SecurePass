@@ -69,6 +69,24 @@ The generated password is designed to be stronger and harder to guess.
 
 The purpose of this project is to help users understand password security and create stronger passwords.
 
+## 💻 Example Output
+
+```text
+================================
+   SECUREPASS - PASSWORD TOOL
+================================
+
+Password Analysis
+-----------------
+Score: 5 / 5
+Strength: 🟢 STRONG
+
+Your password meets all basic requirements!
+
+Generated Strong Password:
+X7@mK2#pL9!q
+
+
 ## 👨‍💻 Project
 
 **SecurePass - Password Strength Analyzer**
