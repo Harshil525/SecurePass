@@ -1,5 +1,7 @@
 # 🔐 SecurePass - Password Strength Analyzer
-
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red)
+![Password Security](https://img.shields.io/badge/Project-Password%20Security-green)
 SecurePass is a Python-based password security tool that analyzes password strength and generates strong random passwords.
 
 ## 🚀 Features
