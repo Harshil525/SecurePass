@@ -85,6 +85,7 @@ Your password meets all basic requirements!
 
 Generated Strong Password:
 X7@mK2#pL9!q
+```
 
 
 ## 👨‍💻 Project
